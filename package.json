@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+      "knex": "^0.13.0",
+      "pg": "^6.4.0",
+      "bcrypt": "^1.0.2"
+  },
+}
